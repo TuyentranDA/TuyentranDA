@@ -8,7 +8,7 @@ I'm Tuyen, a self-taught data analyst from vn Vietnam.
 - 📝 Taught myself SQL, Python and Tableau
 
 ### 📚 Projects & Guides 📚
-- For my portfolio guide, click **[HERE](https://github.com/TuyentranDA/myPortfolio/blob/master/README2.md)**
+- For my portfolio guide, click **[HERE](https://github.com/TuyentranDA/myPortfolio/blob/master/Portfolio%20Guide.md)**
 - How to transition into Data Analytics? Click **[HERE](/)**
 
 ### 💡 Core Competencies 💡
