@@ -1,6 +1,6 @@
 ## Hi there! 
 
-I'm Tuyen, a self-taught data analyst from 🇲🇾 Vietnam.
+I'm Tuyen, a self-taught data analyst from vn Vietnam.
 
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Machine Engineer turned data analyst
