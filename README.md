@@ -1,4 +1,4 @@
-## Hi there! 🙋🏻‍♀️
+## Hi there! 
 
 I'm Tuyen, a self-taught data analyst from 🇲🇾 Vietnam.
 
